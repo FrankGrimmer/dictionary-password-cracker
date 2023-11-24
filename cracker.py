@@ -1,3 +1,5 @@
+# Dictionary Password Cracker - Frank Grimmer 2023
+
 import hashlib  # Import the hashlib library for hash functions.
 import getpass  # Import getpass for secure password input (does not show user input).
 import tkinter as tk  # Import tkinter library for creating GUI.
