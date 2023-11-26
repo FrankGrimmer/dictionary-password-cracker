@@ -44,4 +44,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - The project uses the hashlib library for hash functions.
-- Thanks to the Python community for their contributions.
